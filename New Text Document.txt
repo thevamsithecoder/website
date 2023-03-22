@@ -1,0 +1,73 @@
+What are favicons?
+Favicon means favourite icon which is placed in the title tag
+www.favicon.cc
+In link we have seen rel which means relation
+Each html element is a box
+div element or tag which means divide Or separation
+colorhunt.co
+
+CSS box model
+{border-width: 0px 10px 20px 30 px;} top, right, down, left
+{padding: 20px;}
+{margin: 10px;
+border: solid 20px
+
+CSS display property->sit next to each other
+common inline elements
+<span> means side by side like hello world
+<images>
+<anchors>
+
+
+relative positioning
+img {
+position: relative
+left: 30px (adding a margin), right, top, bottom
+}
+
+Absolete positioning
+<body>
+  <div class="container">
+<div class ="red"> </div> </div>
+  <div class ="blue"> </div>
+  <div class ="yellow"> </div>
+</body>
+
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  
+}
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+<h1>Hello World </h1>
+
+If we scroll down the yellow position also moves because its position is fixed
+
+firstly understand everything in css mdn(margin,alignment)
+
+Two types of font sizes are Serif and Sans-serif Fonts
+serif means our ends or edges are widening fonts
+
+w3 school css fonts
+CSS font stack
+fonts.google.com
+
+Flat icon.com more number of icons you will see
+giphy.com
+
+16px = 100% = 1em 
+
+https://css3buttongenerator.com/
